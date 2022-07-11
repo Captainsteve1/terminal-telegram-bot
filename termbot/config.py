@@ -11,9 +11,9 @@ class Config(object):
     LOGGER = True
     # The Telegram API things
     APP_ID = int(os.environ.get("15855531")
-    API_HASH = os.environ.get("31e0b87de4285ebff259e003f58bf469", None)
+    API_HASH = os.environ.get("31e0b87de4285ebff259e003f58bf469")
     # Get these values from my.telegram.org
-    TG_BOT_TOKEN = os.environ.get("5431085411:AAEg-tf2DgVzN2BLeIQdrhj7d0XJ8SX-DDA", None)
+    TG_BOT_TOKEN = os.environ.get("5431085411:AAEg-tf2DgVzN2BLeIQdrhj7d0XJ8SX-DDA")
     # maximum message length in Telegram
     MAX_MESSAGE_LENGTH = 4096
     # This is required for the plugins involving the file system.
