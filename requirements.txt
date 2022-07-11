@@ -1,2 +1,12 @@
-https://github.com/pyrogram/pyrogram/blob/master/pyrogram/sync.py
-tgcrypto
+dnspython
+google-api-python-client
+google-auth-oauthlib
+lxml
+psutil
+pymongo
+python-dotenv
+python-magic
+python-telegram-bot
+requests
+telegraph
+tenacity
